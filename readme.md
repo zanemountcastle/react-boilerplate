@@ -1,6 +1,6 @@
 # Boilerplate React App
 
-**Features**
+## Features
 *Babel
 *Webpack
 *Karma
