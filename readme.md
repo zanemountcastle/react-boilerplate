@@ -1,8 +1,8 @@
 # Boilerplate React App
 
 **Features**
-  Babel
-  Webpack
-  Karma
-  Sass
-  Foundation
+*Babel
+*Webpack
+*Karma
+*Sass 
+*Foundation
