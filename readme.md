@@ -2,17 +2,17 @@
 
 ## Features
 
-Compiler
+**Compiler**
 * Babel
 
-Module Bundler
+**Module Bundler**
 * Webpack
 
-Testing
+**Testing**
 * Mocha
 * Karma
 * Expect
 
-CSS
+**CSS**
 * Sass 
 * Foundation
