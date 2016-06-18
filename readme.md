@@ -1,1 +1,8 @@
-Boilerplate React App
+# Boilerplate React App
+
+**Features**
+  Babel
+  Webpack
+  Karma
+  Sass
+  Foundation
